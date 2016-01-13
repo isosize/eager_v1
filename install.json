@@ -3,15 +3,15 @@
     "head": [
       {
         "type": "script",
-        "src": "http://www.isosize.com/js/jquery.min.js"
+        "src": "jquery.min.js"
       },
       {
         "type": "style",
-        "src": "http://www.isosize.com/api/v1/isosize.css"
+        "src": "isosize.css"
       },
       {
         "type": "script",
-        "src": "http://www.isosize.com/api/v1/isosize.js"
+        "src": "isosize.js"
       }
     ]
     
@@ -19,7 +19,7 @@
   },
   "options": {
     "properties": {
-      "Api Key": {
+      "customerId": {
         "title": "isosize.com Api Key",
         "description": "Enter the Api Key provided to you by isosize.com ",
         "type": "string"
