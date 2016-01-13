@@ -3,9 +3,19 @@
     "head": [
       {
         "type": "script",
-        "src": "app.js"
+        "src": "//code.jquery.com/jquery-1.12.0.min.js"
+      },
+      {
+        "type": "style",
+        "src": "http://www.isosize.com/api/v1/isosize.css"
+      },
+      {
+        "type": "script",
+        "src": "http://www.isosize.com/api/v1/isosize.js"
       }
     ]
+    
+     
   },
   "options": {
     "properties": {

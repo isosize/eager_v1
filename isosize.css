@@ -1,0 +1,15 @@
+﻿body {
+}
+.isosize {
+                float: right;
+                height: 350px;
+                padding: 0px 0px 0px 0px;
+                width: 440px;
+                z-index: 99999;
+                position: fixed;
+                right: -440px;
+                top: 25%;
+            }
+ .isosize div {
+                width: 440px;
+             }
