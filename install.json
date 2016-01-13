@@ -21,7 +21,7 @@
     "properties": {
       "customerId": {
         "title": "isosize.com Api Key",
-        "description": "Enter the Api Key provided to you by isosize.com",
+        "description": "Enter the Api Key provided to you by isosize.com ",
         "type": "string"
       }
     }
