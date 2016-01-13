@@ -19,7 +19,7 @@
   },
   "options": {
     "properties": {
-      "customerId": {
+      "Api Key": {
         "title": "isosize.com Api Key",
         "description": "Enter the Api Key provided to you by isosize.com ",
         "type": "string"
